@@ -1,0 +1,2 @@
+<h1> CRUD Em Ruby</h1>
+<p>Este repositório serve como demonstração prática dos conhecimentos em Ruby utilizando controle de versões e manipulação de arquivos externos e também persistência (No json)</p>
