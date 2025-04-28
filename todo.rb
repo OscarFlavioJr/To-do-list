@@ -1,9 +1,7 @@
 require 'json'
 
-# Caminho do arquivo de armazenamento
 todo_file = 'todo_list.json'
 
-# Carrega ou inicializa a lista de tarefas
 def load_tasks(file)
   File.exist?(file) ? JSON.parse(File.read(file)) : []
 end
